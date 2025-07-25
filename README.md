@@ -31,8 +31,6 @@ Ce projet est une application Streamlit interactive pour la segmentation de clie
 ![Clustering DBSCAN](images/Cap8.png)
 
 
-...
-
 
 ## 🚀 Lancer l'application
 
